@@ -1,3 +1,5 @@
+# Write a program to mine a log file and find out whether it contains ‘python’.
+
 word = "python"
 
 with open("log.txt", "r") as f:
