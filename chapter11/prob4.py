@@ -1,3 +1,7 @@
+# Write a class ‘Complex’ to represent complex numbers, along with overloaded
+# operators ‘+’ and ‘*’ which adds and multiplies them.
+
+
 class Complex:
     def __init__(self, real_part, img_part):
         self.real_part = real_part
